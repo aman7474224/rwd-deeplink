@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>RWD Profile</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <p style="font-family:sans-serif;text-align:center;margin-top:40px">
+    Opening RWD App...
+  </p>
+  <script>
+    const parts = window.location.pathname.split('/');
+    const userId = parts[parts.length - 1];
+    window.location = 'rwd://profile/' + userId;
+    setTimeout(function() {
+      window.location = 'https://play.google.com/store/apps/details?id=com.app.rwd';
+    }, 2000);
+  </script>
+</body>
+</html>
