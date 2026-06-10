@@ -3,6 +3,8 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.app.rwd",
-    "sha256_cert_fingerprints": ["08:07:EB:04:53:0B:C1:CB:27:71:D6:18:86:13:BE:2F:29:23:6D:15:22:CB:D9:FE:73:A5:2D:FF:3B:4F:11:B4"]
+    "sha256_cert_fingerprints": [
+      "AA:7C:BA:FE:23:9A:12:CB:96:8A:56:F6:53:27:0F:96:D4:90:EB:39:12:8C:E0:ED:53:74:4D:F8:37:21:B8:8B"
+    ]
   }
 }]
