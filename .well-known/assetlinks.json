@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.app.rwd",
+    "sha256_cert_fingerprints": ["08:07:EB:04:53:0B:C1:CB:27:71:D6:18:86:13:BE:2F:29:23:6D:15:22:CB:D9:FE:73:A5:2D:FF:3B:4F:11:B4"]
+  }
+}]
